@@ -44,7 +44,7 @@ button {
 }
 
 a {
-    color: inherit; /* herda cor do container do link */
+    color: inherit;
     text-decoration: none;
 }
 
