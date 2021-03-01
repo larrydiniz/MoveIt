@@ -1,9 +1,12 @@
+
+
+
 # MoveIt <img src="/public/favicon.png" widht=40px height=40px>
 O Projeto proposto consiste em um sistema que lança notificações de desafios a cada 25 minutos para o usuário, sendo esses desafios exercícios simples para o corpo e olhos, como forma de incentivar desenvolvedores a se movimentarem. Ele foi desenvolvido durante a Next Level Week #4 da Rocketseat.
 
 ## Demo Video
 
-[<img src="https://user-images.githubusercontent.com/66534830/109564682-2bad0180-7ac0-11eb-98e2-59d6e7ea5a6e.PNG" width="50%">](https://user-images.githubusercontent.com/66534830/109564614-133ce700-7ac0-11eb-8b3e-159cd19fc29b.mp4![notification]()
+[<img src="https://user-images.githubusercontent.com/66534830/109564682-2bad0180-7ac0-11eb-98e2-59d6e7ea5a6e.PNG" width="50%">](https://user-images.githubusercontent.com/66534830/109565373-20a6a100-7ac1-11eb-8dc0-5b5c0dd93fd8.mp4)
 )
 
 ___
