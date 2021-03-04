@@ -33,7 +33,7 @@ Para saber mais sobre Next.js:
 - [Next.js Documentation](https://nextjs.org/docs) - saber mais sobre as features Next.js e API.
 - [Learn Next.js](https://nextjs.org/learn) - tutorial interativo Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[the Next.js GitHub repository](https://github.com/vercel/next.js/)
 
 ## Deploy com Vercel
 
