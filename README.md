@@ -7,7 +7,7 @@ O Projeto proposto consiste em um sistema que lança notificações de desafios 
 ## Demo Video
 
 [<img src="https://user-images.githubusercontent.com/66534830/109564682-2bad0180-7ac0-11eb-98e2-59d6e7ea5a6e.PNG" width="50%">](https://user-images.githubusercontent.com/66534830/109565373-20a6a100-7ac1-11eb-8dc0-5b5c0dd93fd8.mp4)
-)
+
 
 ___
 Este é um projeto [Next.js](https://nextjs.org/) criado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
